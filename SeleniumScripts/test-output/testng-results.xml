@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30407" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:09:04 IST">
+    <groups>
+    </groups>
+    <test name="On Chrome" duration-ms="24507" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:08:58 IST">
+      <class name="scripts.SelGrid">
+        <test-method status="PASS" signature="Grid(java.lang.String)[pri:0, instance:scripts.SelGrid@6b57696f]" name="Grid" duration-ms="24416" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:08:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Grid -->
+      </class> <!-- scripts.SelGrid -->
+    </test> <!-- On Chrome -->
+    <test name="On firefox" duration-ms="30407" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:09:04 IST">
+      <class name="scripts.SelGrid">
+        <test-method status="PASS" signature="Grid(java.lang.String)[pri:0, instance:scripts.SelGrid@3b088d51]" name="Grid" duration-ms="30328" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:09:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Grid -->
+      </class> <!-- scripts.SelGrid -->
+    </test> <!-- On firefox -->
+  </suite> <!-- Suite -->
+</testng-results>
