@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="30407" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:09:04 IST">
+  <suite name="Suite" duration-ms="18479" started-at="2024-08-06T11:18:05 IST" finished-at="2024-08-06T11:18:23 IST">
     <groups>
     </groups>
-    <test name="On Chrome" duration-ms="24507" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:08:58 IST">
-      <class name="scripts.SelGrid">
-        <test-method status="PASS" signature="Grid(java.lang.String)[pri:0, instance:scripts.SelGrid@6b57696f]" name="Grid" duration-ms="24416" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:08:58 IST">
+    <test name="On chrome" duration-ms="14819" started-at="2024-08-06T11:18:05 IST" finished-at="2024-08-06T11:18:20 IST">
+      <class name="scripts.SelGD">
+        <test-method status="PASS" signature="Grid(java.lang.String)[pri:0, instance:scripts.SelGD@7113b13f]" name="Grid" duration-ms="14741" started-at="2024-08-06T11:18:05 IST" finished-at="2024-08-06T11:18:19 IST">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Grid -->
-      </class> <!-- scripts.SelGrid -->
-    </test> <!-- On Chrome -->
-    <test name="On firefox" duration-ms="30407" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:09:04 IST">
-      <class name="scripts.SelGrid">
-        <test-method status="PASS" signature="Grid(java.lang.String)[pri:0, instance:scripts.SelGrid@3b088d51]" name="Grid" duration-ms="30328" started-at="2024-07-30T21:08:34 IST" finished-at="2024-07-30T21:09:04 IST">
+      </class> <!-- scripts.SelGD -->
+    </test> <!-- On chrome -->
+    <test name="On firefox" duration-ms="18479" started-at="2024-08-06T11:18:05 IST" finished-at="2024-08-06T11:18:23 IST">
+      <class name="scripts.SelGD">
+        <test-method status="PASS" signature="Grid(java.lang.String)[pri:0, instance:scripts.SelGD@646d64ab]" name="Grid" duration-ms="18411" started-at="2024-08-06T11:18:05 IST" finished-at="2024-08-06T11:18:23 IST">
           <params>
             <param index="0">
               <value>
@@ -33,7 +33,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Grid -->
-      </class> <!-- scripts.SelGrid -->
+      </class> <!-- scripts.SelGD -->
     </test> <!-- On firefox -->
   </suite> <!-- Suite -->
 </testng-results>

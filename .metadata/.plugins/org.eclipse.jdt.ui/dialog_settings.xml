@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="D:\SeleniumTheoryMay\SeleniumScripts\src\jars" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="D:\Cucumber Jars\Jars" key="org.eclipse.jdt.ui.lastextjar"/>
 	<section name="FatJarPackageWizard">
 		<item value="D:\SeleniumTheoryMay" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
 		<item value="OrangeHRMLocators - SeleniumScripts" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>

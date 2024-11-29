@@ -1,0 +1,192 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 14,
+        "name": "Verify Orange Login with valid Data",
+        "description": "",
+        "id": "orange-login;verify-orange-login-with-valid-data;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17632592300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should on Orange Home Page",
+            "match": {
+              "location": "LoginSD.user_should_on_Orange_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3352673800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter \"Admin\" and \"Admin\" click on login",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 12
+                },
+                {
+                  "val": "Admin",
+                  "offset": 24
+                }
+              ],
+              "location": "LoginSD.user_enter_Username_password_click_on_login(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7360300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Validates Login Functionality",
+            "match": {
+              "location": "LoginSD.user_Validates_Login_Functionality()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Verify Orange Login with valid Data",
+        "description": "",
+        "id": "orange-login;verify-orange-login-with-valid-data;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14187949600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should on Orange Home Page",
+            "match": {
+              "location": "LoginSD.user_should_on_Orange_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3213745500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter \"Selenium\" and \"Admin\" click on login",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Selenium",
+                  "offset": 12
+                },
+                {
+                  "val": "Admin",
+                  "offset": 27
+                }
+              ],
+              "location": "LoginSD.user_enter_Username_password_click_on_login(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4032000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Validates Login Functionality",
+            "match": {
+              "location": "LoginSD.user_Validates_Login_Functionality()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "Verify Orange Login with valid Data",
+        "description": "",
+        "id": "orange-login;verify-orange-login-with-valid-data;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14959310800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should on Orange Home Page",
+            "match": {
+              "location": "LoginSD.user_should_on_Orange_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3239940100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter \"Testing\" and \"Mindq\" click on login",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Testing",
+                  "offset": 12
+                },
+                {
+                  "val": "Mindq",
+                  "offset": 26
+                }
+              ],
+              "location": "LoginSD.user_enter_Username_password_click_on_login(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12443500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Validates Login Functionality",
+            "match": {
+              "location": "LoginSD.user_Validates_Login_Functionality()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Orange Login",
+    "description": "",
+    "id": "orange-login",
+    "keyword": "Feature",
+    "uri": "D:/SeleniumTheoryMay/SeleniumScripts/src/feature/Login.feature"
+  }
+]

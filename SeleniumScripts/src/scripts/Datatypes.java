@@ -8,25 +8,17 @@ public class Datatypes {
 		// Variable Declaration   
 		
 		  int age;
-
           double Salary; 
-
           char gender;
-
           boolean status;
-
           String name;
           
           // Variable Intilization
           
           age=35;
-          
           Salary=55555.55;
-          
           gender='M';
-          
           status=true;
-          
           name="Automation";
           
           System.out.println("Age :" + age);

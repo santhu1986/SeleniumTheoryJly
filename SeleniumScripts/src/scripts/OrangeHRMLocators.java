@@ -3,6 +3,7 @@ package scripts;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.seleniumhq.jetty9.util.log.Log;
 
@@ -12,13 +13,13 @@ public class OrangeHRMLocators {
 	{
 		// Firefox browser
 		
-		System.setProperty("webdriver.gecko.driver","C:\\Users\\LENOVO\\OneDrive\\Desktop\\geckodriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\LENOVO\\OneDrive\\Desktop\\chromedriver.exe");
 		
-		WebDriver driver=new FirefoxDriver();
+		WebDriver driver=new ChromeDriver();
 		
 		//Url
 		
-		driver.get("https://opensource-demo.orangehrmlive.com/");
+		driver.get("http://192.168.1.4/ranford2");
 		
 		//Maximize
 		

@@ -14,7 +14,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <meta name="keywords" content="Archived, old, closed, suspended, shutdown, closed"/>
     <link rel="shortcut icon" href="/eclipse.org-common/themes/solstice/public/images/favicon.ico"/>
     <title>Archived Projects | The Eclipse Foundation</title>
-    <link rel="preconnect stylesheet" href="/eclipse.org-common/themes/solstice/public/stylesheets/astro.min.css?v0.0.263"/>
+    <link rel="preconnect stylesheet" href="/eclipse.org-common/themes/solstice/public/stylesheets/astro.min.css?v0.0.272"/>
 <meta name="description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
 <meta property="og:description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
 <meta property="og:image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-200x200.png"/>
@@ -344,6 +344,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     id="open-source-for-business-sub-menu">
                     <li>
                       <a class="mobile-menu-item" href="https://www.eclipse.org/org/value/">Business Value of Open Source</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/os4biz/services/">Professional Services</a>
                     </li>
                     <li>
                       <a class="mobile-menu-item" href="https://www.eclipse.org/os4biz/ospo/">Open Source Program Offices</a>
@@ -688,6 +691,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <a href="https://www.eclipse.org/org/value/">Business Value of Open Source</a>
                       </li>
                       <li>
+                          <a href="https://www.eclipse.org/os4biz/services/">Professional Services</a>
+                      </li>
+                      <li>
                           <a href="https://www.eclipse.org/os4biz/ospo/">Open Source Program Offices</a>
                       </li>
                   </ul>
@@ -855,6 +861,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p><a href="http://archive.eclipse.org/archived_projects/albireo.tgz">Albireo</a> project.  Archived: January 2011</p>
         <p><a href="http://archive.eclipse.org/archived_projects/amp.tgz">AMP</a> project.  Archived: October 2023</p>
         <p><a href="http://archive.eclipse.org/archived_projects/am3.tgz">AM3</a> project.  Archived: November 2012</p>
+        <p><a href="http://archive.eclipse.org/archived_projects/andmore.tgz">Andmore</a> project.  Archived: October 2024</p>
         <p><a href="http://archive.eclipse.org/archived_projects/antenna.tgz">Antenna</a> project.  Archived: February 2021</p>
         <p><a href="http://archive.eclipse.org/archived_projects/aperi.tgz">Aperi</a> project.  Archived: March 2009</p>
         <p><a href="http://archive.eclipse.org/archived_projects/apricot.tgz">Apricot</a> project.  Archived: August 2019</p>
@@ -884,6 +891,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p><a href="http://archive.eclipse.org/archived_projects/dd.tgz" alt="DSDP DD Archive" >DSDP DD</a> project. Archived: October 2010.</p>
         <p><a href="http://archive.eclipse.org/archived_projects/dsdp.tgz" alt="DSDP Archive" >DSDP</a> project. Archived: September 2011.</p>
         <p><a href="http://archive.eclipse.org/archived_projects/doc2model.tgz" alt="Doc2Model Archive" >Doc2Model</a> project. Archived: January 2015.</p>
+        <p><a href="http://archive.eclipse.org/archived_projects/duttile.tgz" alt="Duttile Archive" >Duttile</a> project. Archived: July 2024.</p>
         <p><a href="http://archive.eclipse.org/archived_projects/e4.tgz">E4</a> project.  Archived: January 2024</p>
         <p><a href="http://archive.eclipse.org/archived_projects/eatop.tgz">Modeling EATop</a> project.  Archived: March 2021</p>
         <p><a href="http://archive.eclipse.org/archived_projects/ebr.tgz">RT EBR</a> project.  Archived: February 2023</p>
@@ -971,6 +979,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p><a href="http://archive.eclipse.org/archived_projects/rat.tgz">Rat</a> project.  Archived: May 2012</p>
         <p><a href="http://archive.eclipse.org/archived_projects/recommenders.tgz">Recommenders</a> project.  Archived: July 2019</p>
         <p><a href="http://archive.eclipse.org/archived_projects/recommenders.incubator.tgz">Recommenders incubator</a> project.  Archived: October 2019 </p>
+        <p><a href="http://archive.eclipse.org/archived_projects/riena.tgz">Riena</a> project.  Archived: October 2024</p>
         <p><a href="http://archive.eclipse.org/archived_projects/remus.tgz">Remus</a> project.  Archived: May 2020</p>
         <p><a href="http://archive.eclipse.org/archived_projects/risev2g.tgz">Risev2g</a> project.  Archived: January 2019</p>
         <p><a href="http://archive.eclipse.org/archived_projects/rtp.tgz">Packaging RTP</a> project.  Archived: March 2021</p>
@@ -992,6 +1001,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p><a href="http://archive.eclipse.org/archived_projects/smila.tgz">SMILA</a> project.  Archived: July 2022</p>
         <p><a href="http://archive.eclipse.org/archived_projects/stellation-project.tar.gz">Stellation</a> project.  Archived: June 2005 </p>
         <p><a href="http://archive.eclipse.org/archived_projects/stardust.tgz">Stardust</a> project.  Archived: November 2017 </p>
+        <p><a href="http://archive.eclipse.org/archived_projects/stem.tgz">Stem</a> project.  Archived: July 2024 </p>
         <p><a href="http://archive.eclipse.org/archived_projects/stp.tgz">STP</a> project.  Archived: September 2012 </p>
         <p><a href="http://archive.eclipse.org/archived_projects/swordfish.tgz">Swordfish</a> project.  Archived: January 2014 </p>
         <p><a href="http://archive.eclipse.org/archived_projects/systemfocus.tgz">Systemfocus</a> project.  Archived: December 2021 </p>
@@ -1229,7 +1239,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </footer>
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="/eclipse.org-common/themes/solstice/public/javascript/astro.min.js?var=0.0.264"></script>
+<script src="/eclipse.org-common/themes/solstice/public/javascript/astro.min.js?var=0.0.272"></script>
 
 </body>
 </html>

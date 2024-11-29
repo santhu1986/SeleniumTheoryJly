@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="scripts.SelGrid">
+      <class name="scripts.SelGD">
         <methods>
           <include name="Grid"/>
         </methods>
-      </class> <!-- scripts.SelGrid -->
+      </class> <!-- scripts.SelGD -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

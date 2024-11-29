@@ -12,9 +12,9 @@ public class DifferentBrowsers {
 	
 		// Chrome Browser
 		
-		System.setProperty("webdriver.chrome.driver","D:\\SeleniumTheoryMay\\SeleniumScripts\\Drivers\\chromedriver.exe");
+		//System.setProperty("webdriver.chrome.driver","C:\\Users\\LENOVO\\OneDrive\\Desktop\\chromedriver.exe");
 		
-		WebDriver driver=new ChromeDriver();
+		//WebDriver driver=new ChromeDriver();
 		
 		//Firefox Browser
 		
@@ -24,8 +24,8 @@ public class DifferentBrowsers {
 
 		//Microsoft Edge Browser
 		
-		//System.setProperty("webdriver.edge.driver","C:\\Users\\LENOVO\\OneDrive\\Desktop\\msedgedriver.exe");
-		//WebDriver driver=new EdgeDriver();
+		System.setProperty("webdriver.edge.driver","C:\\Users\\LENOVO\\OneDrive\\Desktop\\msedgedriver.exe");
+		WebDriver driver=new EdgeDriver();
 	}
 
 }
